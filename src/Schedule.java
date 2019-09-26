@@ -5,8 +5,9 @@ class Schedule {
 	 * @end the length of the old array , to make sure there's no
 	 *      exceptionOutOfBounds
 	 * @index to keep track of elements entered inside the new array
-	 * @newArray
-	 * @oldArray @2 number combination, to get TeamA vs TeamB,
+	 * @newArray new aray
+	 * @oldArray old array
+	 * @combo = 2, number combination, to get TeamA vs TeamB.
 	 * 
 	 */
 	static void printSchedule(int start, int end, int index, String newArray[], String oldArray[]) {
