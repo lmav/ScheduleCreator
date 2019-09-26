@@ -1,6 +1,5 @@
 import java.io.*;
-public class Database {
-	
+public class Database {	
 	/**
 	 * 
 	 * @data teams
@@ -8,7 +7,6 @@ public class Database {
 	 */
 	static void save(String data[], int size) {
 		
-        	
             try{    
             	FileWriter fw=new FileWriter("schedule.txt",true); 
                 PrintWriter printWriter = new PrintWriter(fw);
@@ -26,5 +24,4 @@ public class Database {
                 System.out.println("Success...");
 
 	}
-
 }
