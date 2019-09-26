@@ -6,9 +6,6 @@ public class main {
 				"Rings", "Orange", "Jets", "Gold", "Jaguar", };
 
 		Schedule.ScheduleFinder(teams);
-
-		// Combo.count();
-
 	}
 
 }
