@@ -6,5 +6,6 @@ small java application where you can create a  sports schedule and also save the
 <br>
 <br>
 <h1>App Preview</h1>
-![Kiku](images/d.png)
+
+<img src="images/d.png" >
 
