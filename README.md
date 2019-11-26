@@ -1,11 +1,10 @@
 # ScheduleCreator
-small java application where you can create a  sports schedule and also save the data in a text file.
+small java application to generate sports schedule and save data on file. .
 
 
 <br>
 <br>
-<h1>App features</h1>
 <br>
 <br>
-
+<h2>Preview</h2>
 <img src="images/d.png">
